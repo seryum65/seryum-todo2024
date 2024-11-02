@@ -1,0 +1,5 @@
+---
+# vars file for postgre
+container_path: /home/ec2-user/postgresql
+container_name: sn_postgre
+image_name: seryum/postgre
